@@ -27,9 +27,9 @@ Features
 
 - Completely Cross platform
 
-- Support for one-time alarms
+- Support for one-time alarm
 
-**-     Enhanced with Timer**
+- ENHANCED WITH TIMER
 
 ## Linux Build/Install
 
