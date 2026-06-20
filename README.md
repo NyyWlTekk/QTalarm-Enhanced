@@ -64,11 +64,6 @@ Categories=Application;Utility;
 ```
 4. QTalarm Should now be installed.
 
-## Waybar users
-It is possible to configure QTalarm to launch when clicking on the waybar clock. Such a configuration would launch the application each time the clock was clicked. Normally, when QTalarm has a second instance the duplicate process will shutdown and the main window would be shown on the original process. Configuring waybar to run QTalarm with the `--toggleOnDup` flag should force the application to toggle its main window when a duplicate process is launched.
-
 Licensing
 ==========
 GPL V3
-
-Please Report any bugs to the GitHub page at [https://github.com/CountMurphy/QTalarm](https://github.com/CountMurphy/QTalarm).
