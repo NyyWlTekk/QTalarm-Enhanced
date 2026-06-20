@@ -1,4 +1,4 @@
-QTalarm
+QTalarm-Enhanced
 =======
 
 [![Actions Status](https://github.com/CountMurphy/QTalarm/workflows/Build/badge.svg)](https://github.com/CountMurphy/QTalarm/actions)
@@ -28,6 +28,8 @@ Features
 - Completely Cross platform
 
 - Support for one-time alarms
+
+**-     Enhanced with Timer**
 
 ## Linux Build/Install
 
