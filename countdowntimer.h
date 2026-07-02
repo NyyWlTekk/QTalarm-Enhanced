@@ -22,7 +22,7 @@ signals:
     void countdownFinished(int totalSeconds);
 
 private:
-    Ui::CountdownTimer *ui; // Tady musí být ukazatel na Ui třídu
+    Ui::CountdownTimer *ui;
 };
 
 #endif // COUNTDOWNTIMER_H
