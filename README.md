@@ -7,7 +7,7 @@ A handy alarm clock program written in QT.
 
 Compilation instructions for Linux and MacOS:
 ```
-qmake
+qmake6
 make
 make clean
 ```
